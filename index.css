@@ -1,0 +1,28 @@
+body {
+    white-space: nowrap;
+}
+h1 {
+    font-size: 1.5em;
+}
+h2 {
+    font-size: 1.25em;
+}
+img {
+    max-height: 1.5em;
+    max-width: 1.5em;
+    margin-right: 0.2em;
+}
+.btn {
+    text-align: left;
+    width: 100%;
+}
+.d-inline-block {
+    vertical-align: top;
+}
+.overflowSection {
+    max-height: 100vh;
+    overflow-y: scroll;
+}
+.recipe-row td:first-child {
+    background-color: var(--bs-light);
+}
