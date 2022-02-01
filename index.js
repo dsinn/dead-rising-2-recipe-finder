@@ -375,6 +375,7 @@
                         "Ketchup",
                         "LargeSoda",
                         "Milk",
+                        "Mustard",
                         "Nectar",
                         "OrangeJuice",
                         "QuickStep",
@@ -526,7 +527,6 @@
                     "Ketchup": [
                         "Apple",
                         "Melon",
-                        "Mustard",
                         "OrangeJuice",
                         "Pineapple"
                     ],
@@ -596,9 +596,8 @@
                         "Vodka"
                     ],
                     "Mustard": [
-                        "Ketchup",
+                        "Apple",
                         "Melon",
-                        "Mustard",
                         "OrangeJuice",
                         "Pineapple"
                     ],
@@ -784,6 +783,7 @@
                         "Bacon",
                         "Beer",
                         "Ketchup",
+                        "Mustard",
                         "PainKiller"
                     ],
                     "Brownie": [
@@ -822,6 +822,7 @@
                         "DrinkCocktail",
                         "Ketchup",
                         "Mayonnaise",
+                        "Mustard",
                         "PainKiller",
                         "Vodka",
                         "Whiskey"
@@ -855,7 +856,6 @@
                     "Ketchup": [
                         "Beer",
                         "DrinkCocktail",
-                        "Mustard",
                         "Vodka",
                         "Whiskey"
                     ],
@@ -881,8 +881,8 @@
                         "Whiskey"
                     ],
                     "Mustard": [
-                        "Ketchup",
-                        "Mustard",
+                        "Beer",
+                        "DrinkCocktail",
                         "Vodka",
                         "Whiskey"
                     ],
@@ -1074,6 +1074,7 @@
                         "LargeSoda",
                         "Lobster",
                         "Milk",
+                        "Mustard",
                         "OnionRing",
                         "OrangeJuice",
                         "Pizza",
@@ -1193,7 +1194,6 @@
                     ],
                     "Ketchup": [
                         "Coffee",
-                        "Mustard",
                         "Wine"
                     ],
                     "LargeSoda": [
@@ -1245,8 +1245,7 @@
                         "Zombait"
                     ],
                     "Mustard": [
-                        "Ketchup",
-                        "Mustard",
+                        "Coffee",
                         "Wine"
                     ],
                     "Nectar": [
@@ -2884,6 +2883,7 @@
                         "Ketchup",
                         "Mayonnaise",
                         "Milk",
+                        "Mustard",
                         "Pineapple",
                         "Repulse",
                         "Vodka",
@@ -2908,6 +2908,7 @@
                         "Ketchup",
                         "Mayonnaise",
                         "Milk",
+                        "Mustard",
                         "OnionRing",
                         "Repulse",
                         "Vodka",
@@ -2937,6 +2938,7 @@
                         "LargeSoda",
                         "Lobster",
                         "Mayonnaise",
+                        "Mustard",
                         "OnionRing",
                         "Pasta",
                         "Pie",
@@ -3003,8 +3005,7 @@
                     "Ketchup": [
                         "Beans",
                         "Burrito",
-                        "Chili",
-                        "Mustard"
+                        "Chili"
                     ],
                     "LargeSoda": [
                         "Chili",
@@ -3033,8 +3034,9 @@
                         "Burrito"
                     ],
                     "Mustard": [
-                        "Ketchup",
-                        "Mustard"
+                        "Beans",
+                        "Burrito",
+                        "Chili"
                     ],
                     "Nectar": [
                         "Repulse"
@@ -3178,6 +3180,7 @@
                         "Fish",
                         "HotDog",
                         "Ketchup",
+                        "Mustard",
                         "OnionRing",
                         "OrangeJuice",
                         "Spitfire"
@@ -3187,6 +3190,7 @@
                         "Fish",
                         "HotDog",
                         "Ketchup",
+                        "Mustard",
                         "OnionRing",
                         "OrangeJuice",
                         "Spitfire"
@@ -3206,6 +3210,7 @@
                         "Fish",
                         "HotDog",
                         "Ketchup",
+                        "Mustard",
                         "OnionRing",
                         "Spitfire"
                     ],
@@ -3450,6 +3455,9 @@
                         "HotDog"
                     ],
                     "Mustard": [
+                        "BBQChicken",
+                        "BBQRibs",
+                        "BakedPotato",
                         "CoffeeCreamer",
                         "Cookies",
                         "CookingOil",
@@ -3707,6 +3715,7 @@
                         "Hamburger",
                         "Ketchup",
                         "Milk",
+                        "Mustard",
                         "Pizza",
                         "Snack",
                         "Sushi",
@@ -3891,7 +3900,6 @@
                         "Hamburger",
                         "Lobster",
                         "Mayonnaise",
-                        "Mustard",
                         "Nectar",
                         "OnionRing",
                         "Randomizer",
@@ -3943,12 +3951,11 @@
                         "Pasta"
                     ],
                     "Mustard": [
+                        "Bacon",
                         "Fries",
                         "Hamburger",
-                        "Ketchup",
                         "Lobster",
                         "Mayonnaise",
-                        "Mustard",
                         "Nectar",
                         "OnionRing",
                         "Randomizer",
@@ -4249,6 +4256,7 @@
                         "LargeSoda",
                         "Mayonnaise",
                         "Milk",
+                        "Mustard",
                         "Pasta",
                         "Pie",
                         "Pizza",
@@ -4284,6 +4292,7 @@
                         "Lobster",
                         "Mayonnaise",
                         "Milk",
+                        "Mustard",
                         "OnionRing",
                         "Pasta",
                         "Pie",
@@ -4433,6 +4442,7 @@
                         "LargeSoda",
                         "Lobster",
                         "Mayonnaise",
+                        "Mustard",
                         "OnionRing",
                         "Snack",
                         "Sushi",
@@ -4446,7 +4456,6 @@
                         "Jellybeans",
                         "LargeSoda",
                         "Milk",
-                        "Mustard",
                         "Pizza",
                         "Repulse",
                         "Sushi"
@@ -4498,12 +4507,13 @@
                         "Pie"
                     ],
                     "Mustard": [
+                        "Brownie",
+                        "Cake",
                         "Donuts",
                         "Fish",
-                        "Ketchup",
+                        "Jellybeans",
                         "LargeSoda",
                         "Milk",
-                        "Mustard",
                         "Pizza",
                         "Repulse",
                         "Sushi"
@@ -4726,6 +4736,7 @@
                     "Mayonnaise": "Zombait",
                     "Melon": "Energizer",
                     "Milk": "Nectar",
+                    "Mustard": "Nectar",
                     "Nectar": "Nectar",
                     "OnionRing": "Zombait",
                     "OrangeJuice": "Nectar",
@@ -4788,6 +4799,7 @@
                     "Mayonnaise": "Energizer",
                     "Melon": "Nectar",
                     "Milk": "Untouchable",
+                    "Mustard": "Spitfire",
                     "Nectar": "Nectar",
                     "OnionRing": "Spitfire",
                     "OrangeJuice": "Spitfire",
@@ -4850,6 +4862,7 @@
                     "Mayonnaise": "Energizer",
                     "Melon": "Nectar",
                     "Milk": "Randomizer",
+                    "Mustard": "Spitfire",
                     "Nectar": "Nectar",
                     "OnionRing": "Spitfire",
                     "OrangeJuice": "Spitfire",
@@ -4912,6 +4925,7 @@
                     "Mayonnaise": "Repulse",
                     "Melon": "Nectar",
                     "Milk": "Untouchable",
+                    "Mustard": "Untouchable",
                     "Nectar": "Nectar",
                     "OnionRing": "Spitfire",
                     "OrangeJuice": "Spitfire",
@@ -4974,6 +4988,7 @@
                     "Mayonnaise": "Untouchable",
                     "Melon": "Nectar",
                     "Milk": "Untouchable",
+                    "Mustard": "Spitfire",
                     "Nectar": "Nectar",
                     "OnionRing": "Spitfire",
                     "OrangeJuice": "Energizer",
@@ -5036,6 +5051,7 @@
                     "Mayonnaise": "Repulse",
                     "Melon": "Nectar",
                     "Milk": "Repulse",
+                    "Mustard": "Repulse",
                     "Nectar": "Nectar",
                     "OnionRing": "Spitfire",
                     "OrangeJuice": "Nectar",
@@ -5098,6 +5114,7 @@
                     "Mayonnaise": "Randomizer",
                     "Melon": "Nectar",
                     "Milk": "Randomizer",
+                    "Mustard": "PainKiller",
                     "Nectar": "Nectar",
                     "OnionRing": "Zombait",
                     "OrangeJuice": "Nectar",
@@ -5160,6 +5177,7 @@
                     "Mayonnaise": "Zombait",
                     "Melon": "Nectar",
                     "Milk": "Zombait",
+                    "Mustard": "Zombait",
                     "Nectar": "Nectar",
                     "OnionRing": "Untouchable",
                     "OrangeJuice": "Nectar",
@@ -5222,6 +5240,7 @@
                     "Mayonnaise": "Repulse",
                     "Melon": "Spitfire",
                     "Milk": "Repulse",
+                    "Mustard": "Repulse",
                     "Nectar": "Nectar",
                     "OnionRing": "Repulse",
                     "OrangeJuice": "Spitfire",
@@ -5284,6 +5303,7 @@
                     "Mayonnaise": "Zombait",
                     "Melon": "Nectar",
                     "Milk": "Zombait",
+                    "Mustard": "Zombait",
                     "Nectar": "Nectar",
                     "OnionRing": "Zombait",
                     "OrangeJuice": "Nectar",
@@ -5346,6 +5366,7 @@
                     "Mayonnaise": "Repulse",
                     "Melon": "Spitfire",
                     "Milk": "Untouchable",
+                    "Mustard": "Repulse",
                     "Nectar": "Nectar",
                     "OnionRing": "Repulse",
                     "OrangeJuice": "Spitfire",
@@ -5408,6 +5429,7 @@
                     "Mayonnaise": "Spitfire",
                     "Melon": "Nectar",
                     "Milk": "QuickStep",
+                    "Mustard": "QuickStep",
                     "Nectar": "Nectar",
                     "OnionRing": "QuickStep",
                     "OrangeJuice": "QuickStep",
@@ -5722,6 +5744,7 @@
                     "Mayonnaise": "PainKiller",
                     "Melon": "Nectar",
                     "Milk": "QuickStep",
+                    "Mustard": "PainKiller",
                     "Nectar": "Nectar",
                     "OnionRing": "Randomizer",
                     "OrangeJuice": "Nectar",
@@ -6162,6 +6185,7 @@
                     "Mayonnaise": "Zombait",
                     "Melon": "Nectar",
                     "Milk": "QuickStep",
+                    "Mustard": "Zombait",
                     "Nectar": "Nectar",
                     "OnionRing": "Zombait",
                     "OrangeJuice": "Nectar",
@@ -6572,16 +6596,30 @@
                     "Zombait": "QuickStep"
                 },
                 "Mustard": {
+                    "Apple": "Nectar",
+                    "BBQChicken": "Spitfire",
+                    "BBQRibs": "Spitfire",
+                    "Bacon": "Untouchable",
+                    "BakedPotato": "Spitfire",
+                    "Beans": "Repulse",
+                    "Beer": "PainKiller",
+                    "Brownie": "Zombait",
+                    "Burrito": "Repulse",
+                    "Cake": "Zombait",
+                    "Chili": "Repulse",
+                    "Coffee": "QuickStep",
                     "CoffeeCreamer": "Spitfire",
                     "Cookies": "Spitfire",
                     "CookingOil": "Spitfire",
                     "Donuts": "Zombait",
+                    "DrinkCocktail": "PainKiller",
                     "Energizer": "Randomizer",
                     "Fish": "Zombait",
                     "Fries": "Untouchable",
                     "Hamburger": "Untouchable",
                     "HotDog": "Spitfire",
                     "IceCream": "Spitfire",
+                    "Jellybeans": "Zombait",
                     "Ketchup": "Spitfire",
                     "LargeSoda": "Zombait",
                     "Lobster": "Untouchable",
